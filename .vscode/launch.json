@@ -26,6 +26,7 @@
                 "/Views": "${workspaceFolder}/Views"
             }
         },
+        //permet de sélectionner le processus auquel nous voulons attacher le débogguer
         {
             "name": ".NET Core Attach",
             "type": "coreclr",
